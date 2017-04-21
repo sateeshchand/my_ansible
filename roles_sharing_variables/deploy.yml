@@ -5,4 +5,5 @@
     roles:
       - VPC
       - Subnet
-      - Security_group      
+      - Security_group     
+      - instance 
