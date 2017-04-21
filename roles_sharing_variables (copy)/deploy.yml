@@ -1,9 +1,0 @@
----
-
-  - hosts: localhost    
-
-    roles:
-      - VPC
-      - Subnet
-      - Security_group     
-      - instance 
